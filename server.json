@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2023-05-02T15:56:18.360Z",
       "id": 5
+    },
+    {
+      "description": "aa",
+      "price": 2,
+      "category": "zzz",
+      "type": "income",
+      "createdAt": "2023-05-02T16:00:20.175Z",
+      "id": 6
     }
   ]
 }
